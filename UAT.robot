@@ -134,14 +134,4 @@ Test case_08
     Sleep    2s
     Click logout Button
     Sleep    2s
-Test case_09  
-    Click Login Button
 
-Test case_10 
-    Click Login Button
-
-Test case_11
-    Click Login Button
-
-Test case_12
-    Click Login Button
